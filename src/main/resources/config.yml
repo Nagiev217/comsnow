@@ -1,0 +1,6 @@
+range: 40
+amount: 25
+speed: 1.2
+life-time-seconds: 4
+cooldown-seconds: 5
+particles: true
